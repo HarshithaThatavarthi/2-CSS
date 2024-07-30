@@ -1,0 +1,19 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:blanchedalmond;
+    margin:10
+}
+h1{
+    background-color:chocolate
+}
+h2{
+    background-color:deeppink
+}
+ol{
+    list-style-type:upper-roman;
+    font-size:20px;
+}
+ul{
+    list-style-type:square;
+    font-size:20px;
+}
